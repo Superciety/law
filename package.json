@@ -1,0 +1,21 @@
+{
+  "name": "superciety-law",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SupercietyHQ/law.git"
+  },
+  "author": "Superciety",
+  "license": "ISC",
+  "homepage": "https://github.com/SupercietyHQ/law#readme"
+}
