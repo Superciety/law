@@ -15,7 +15,11 @@
     "type": "git",
     "url": "git+https://github.com/SupercietyHQ/law.git"
   },
-  "author": "Superciety",
+  "author": {
+    "name": "Micha Vie",
+    "email": "micha@freeiam.com",
+    "url": "https://michavie.com"
+  },
   "license": "ISC",
   "homepage": "https://github.com/SupercietyHQ/law#readme"
 }
