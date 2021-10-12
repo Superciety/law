@@ -7,7 +7,7 @@ module.exports = {
       {
         title: "General",
         collapsable: false,
-        children: prefix("general", ["modifications"])
+        children: prefix("general", ["modifications", "super"])
       }
     ],
     smoothScroll: true,
