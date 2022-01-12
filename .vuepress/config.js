@@ -12,7 +12,9 @@ module.exports = {
     ],
     smoothScroll: true,
     lastUpdated: "Last Updated",
-    docsBranch: "main"
+    docsBranch: "main",
+    repo: "superciety/law",
+    editLinks: true
   },
   plugins: [
     "@vuepress/active-header-links",
