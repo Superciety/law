@@ -8,6 +8,13 @@ module.exports = {
         title: 'General',
         collapsable: false,
         children: prefix('general', ['modifications', 'super']),
+        sidebarDepth: 0,
+      },
+      {
+        title: 'Superhuman',
+        collapsable: false,
+        children: prefix('superhuman', ['discord']),
+        sidebarDepth: 0,
       },
     ],
     smoothScroll: true,
