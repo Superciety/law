@@ -13,7 +13,7 @@ module.exports = {
       {
         title: 'Superhuman',
         collapsable: false,
-        children: prefix('superhuman', ['discord']),
+        children: prefix('superhuman', ['freeiam', 'discord']),
         sidebarDepth: 0,
       },
     ],
