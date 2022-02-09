@@ -7,7 +7,7 @@ module.exports = {
       {
         title: 'General',
         collapsable: false,
-        children: prefix('general', ['modifications', 'super']),
+        children: prefix('general', ['modifications', 'super', 'communication-style']),
         sidebarDepth: 0,
       },
       {
