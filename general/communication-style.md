@@ -8,6 +8,8 @@ Superciety is made of builders. Every one of us represents Superciety & every on
 
   ✅ we are superciety and we are a community project.
 
+- **Relevance**: Only communicate what is relevant and valuable to the audience.
+
 - **Brevity**: Remove all filler words and strip down sentences to their core.
 
   ❌ We always work to build a better society for the people.
@@ -32,7 +34,9 @@ Superciety is made of builders. Every one of us represents Superciety & every on
 
 - **Emojis**: Use emojis to guide the reader & invoke images in the mind, not to express emotion.
 
-* **Emphasis**: CAPITALIZE words you want to emphasize
+- **Emphasis**: CAPITALIZE words you want to emphasize
+
+- **Avoid excessive tagging**: Only use relevant hashtags & relevant user mentions to avoid looking needy or spammy.
 
   ❌ anyone can be a part of superciety.
 
